@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Gweek Gitbook
+longtitle:        Gweek Gitbook
+author:           Gweek
+email:            soslane@proton.me
 description: >
-  Build Jekyll site with the GitBook style.
+  Gweek Gitbook for teaching Cloud Computing
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://soslane.github.io'
+baseurl:          '/gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
