@@ -8,7 +8,7 @@ permalink: /
 
 |      Subject      |          Value          | 
 | :------------: | :-------------------: |
-| 作者|         Gweek          |
+| Author|         Gweek          |
 | Github |          soslane         |
 |     E-mail     | soslane@proton.me |
 |     Weibo     |   soslane    |
