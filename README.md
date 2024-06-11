@@ -3,7 +3,8 @@ layout: home
 title: Welcome to Gweek notes
 permalink: /
 ---
-![](https://jsd.cdn.zzko.cn/gh/soslane/picgo@main/path/pexels-stephen-leonardi-17117933.jpg)
+![header_image](https://github.com/soslane/gitbook/assets/149466045/f2afcafc-31b9-4e11-a1d3-5479e1fb25a2)
+
 
 
 |      Subject      |          Value          | 
