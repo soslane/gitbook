@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://soslane.github.io'
-baseurl:          '/gitbook'
+url:              'https://gitbook.myla.eu.org'
+baseurl:          'https://gitbook.myla.eu.org'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
